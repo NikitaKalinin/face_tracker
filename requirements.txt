@@ -1,0 +1,5 @@
+face_recognition
+#face_recognition_models
+dlib>=19.3.0
+numpy
+opencv-contrib-python
